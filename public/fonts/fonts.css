@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Nineties Display';
+  src: url('NinetiesDisplay.otf') format('opentype');
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('BebasNeue-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-display: swap;
+}
