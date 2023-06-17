@@ -12,7 +12,7 @@
   "env": {
     "es2021": true,
     "browser": true,
-    "node": false
+    "node": true
   },
   "rules": {
     "radix": "off",
@@ -20,7 +20,7 @@
     "consistent-return": "off",
     "import/no-absolute-path": "off",
     "react/display-name": "off",
-    "react/require-default-props": "off",
+    "react/require-default-props": "on",
     "react/no-unescaped-entities": "on",
     "react/jsx-props-no-spreading": "off",
     // "@typescript-eslint/explicit-module-boundary-types": "off",
